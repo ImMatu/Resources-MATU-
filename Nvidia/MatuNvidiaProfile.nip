@@ -469,7 +469,7 @@
       <ProfileSetting>
         <SettingNameInfo>CUDA Sysmem Fallback Policy</SettingNameInfo>
         <SettingID>283962569</SettingID>
-        <SettingValue>0</SettingValue>
+        <SettingValue>2</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -577,7 +577,7 @@
       <ProfileSetting>
         <SettingNameInfo>OpenGL GDI compatibility</SettingNameInfo>
         <SettingID>544392611</SettingID>
-        <SettingValue>2</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -637,7 +637,7 @@
       <ProfileSetting>
         <SettingNameInfo>Vulkan/OpenGL present method</SettingNameInfo>
         <SettingID>550932728</SettingID>
-        <SettingValue>2</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
