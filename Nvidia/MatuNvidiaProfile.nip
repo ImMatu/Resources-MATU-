@@ -77,12 +77,6 @@
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
-        <SettingNameInfo>NVIDIA Predefined Ambient Occlusion Usage</SettingNameInfo>
-        <SettingID>6701881</SettingID>
-        <SettingValue>0</SettingValue>
-        <ValueType>Dword</ValueType>
-      </ProfileSetting>
-      <ProfileSetting>
         <SettingNameInfo> </SettingNameInfo>
         <SettingID>6710836</SettingID>
         <SettingValue>0</SettingValue>
@@ -469,7 +463,7 @@
       <ProfileSetting>
         <SettingNameInfo>CUDA Sysmem Fallback Policy</SettingNameInfo>
         <SettingID>283962569</SettingID>
-        <SettingValue>2</SettingValue>
+        <SettingValue>1</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
